@@ -1,0 +1,6 @@
+com\mgt\repository\ProductRepository.class
+com\mgt\model\Product.class
+com\mgt\service\ProductService.class
+com\mgt\controller\ProductController.class
+com\mgt\main\InventoryManagementApplication.class
+com\mgt\dao\ProductDAO.class
